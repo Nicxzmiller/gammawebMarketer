@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Gammawebmarketer'),
+    'name' => env('APP_NAME', 'GammawebMarketer'),
 
     /*
     |--------------------------------------------------------------------------
@@ -67,7 +67,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Europe/Malta',
 
     /*
     |--------------------------------------------------------------------------
